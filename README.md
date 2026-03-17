@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Victor. Nice to meet you.
 
-Feature/a 기능 개발 완료
+Feature/b 기능 개발 완료
 <!--
 **jhdream01-ys/jhdream01-ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
