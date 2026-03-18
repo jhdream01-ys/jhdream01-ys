@@ -1,4 +1,4 @@
-## Hi there 👋 I am Victor. Nice to meet you.
+## Hi there 👋 Nice to meet you.
 
 Feature/a 기능 개발 완료
 <!--
